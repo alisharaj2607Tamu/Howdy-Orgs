@@ -1,0 +1,62 @@
+[
+  {
+    "name": "The 12th Can",
+    "description": "The 12th Can Food Pantry intends to eliminate food insecurity on campus for students, faculty, and staff at Texas A&M University and to show others the power of the Aggie Spirit. The 12th Can provides an essential resource for Aggies on-campus, now more than ever.",
+    "contact": {
+      "phone": "979-862-4279",
+      "email": "12thcan.director@gmail.com",
+      "website": "https://getinvolved.tamu.edu/login"
+    },
+    "categories": [],
+    "socials": {},
+    "url": "https://getinvolved.tamu.edu/org/the-12th-can",
+    "thumbnail": "https://getinvolved.tamu.edu/storage/organizations/1111/images/icon.png"
+  },
+  {
+    "name": "12th Law Man",
+    "description": "The purpose of the 12th Law Man is to preserve and promote the traditions of Texas A&M University School of Law through outreach and education. The 12th Law Man will seek to encourage the unity of our student body by providing opportunities for students to be involved in many of the time honored traditions of the Texas A&M University system, as well as traditions unique to the Texas A&M University School of Law.",
+    "contact": {
+      "email": "12thlawman@law.tamu.edu",
+      "website": "https://getinvolved.tamu.edu/login"
+    },
+    "categories": [],
+    "socials": {},
+    "url": "https://getinvolved.tamu.edu/org/12th-law-man",
+    "thumbnail": "https://getinvolved.tamu.edu/images/tamu-logo-white.png"
+  },
+  {
+    "name": "180 Degrees Consulting TAMU",
+    "description": "180 Degrees Consulting's aim is to make a global social impact by enabling intelligent young people from around the world to provide advice to socially oriented organizations to help them solve their biggest challenges.",
+    "contact": {
+      "email": "texasam@180dc.org",
+      "website": "https://getinvolved.tamu.edu/login"
+    },
+    "categories": [],
+    "socials": {},
+    "url": "https://getinvolved.tamu.edu/org/180-degrees",
+    "thumbnail": "https://getinvolved.tamu.edu/images/tamu-logo-white.png"
+  },
+  {
+    "name": "1st Battalion Staff",
+    "description": "First Battalion Staff is a part of the Texas A&M Corps of Cadets System. First Battalion Staff supports/oversees Companies A-2, B-1, F-2, and L-1.",
+    "contact": {
+      "website": "https://getinvolved.tamu.edu/login"
+    },
+    "categories": [],
+    "socials": {},
+    "url": "https://getinvolved.tamu.edu/org/1stbatt",
+    "thumbnail": "https://getinvolved.tamu.edu/storage/organizations/517/images/icon.PNG"
+  },
+  {
+    "name": "1st Brigade",
+    "description": "",
+    "contact": {
+      "website": "https://getinvolved.tamu.edu/login",
+      "address": "sites.google.com/view/firstbrigade"
+    },
+    "categories": [],
+    "socials": {},
+    "url": "https://getinvolved.tamu.edu/org/1st-brigade",
+    "thumbnail": "https://getinvolved.tamu.edu/images/tamu-logo-white.png"
+  }
+]

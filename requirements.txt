@@ -1,0 +1,4 @@
+fastapi[standard]
+pandas
+sentence-transformers
+rank_bm25
